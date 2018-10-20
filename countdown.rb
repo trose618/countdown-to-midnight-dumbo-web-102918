@@ -6,5 +6,5 @@ def countdown(start)
     start -= 1 
   end
   
-  "HAOOY NEW YEAR!"
+  "HAPPY NEW YEAR!"
 end
